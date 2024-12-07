@@ -1,9 +1,4 @@
 <picture>
-.container {
- display: flex;
- justify-content: center;
- align-items: center;
- }
  <source media="(prefers-color-scheme: dark)" srcset="q.png">
  <source media="(prefers-color-scheme: light)" srcset="q.png">
   <img alt="LAUGH A LOT WITH FRIENDS HOPE IT NEVER ENDS" src="q.png">
